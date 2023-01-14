@@ -1,1 +1,1 @@
-# Bachelor-s-thesis 2022
+# Bachelor's Thesis 2022
