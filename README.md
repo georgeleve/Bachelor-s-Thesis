@@ -1,4 +1,4 @@
-# Bachelor's Thesis 2022
+# [Bachelor's Thesis 2022](https://www.csd.uoc.gr/CSD/index.jsp?content=courses_catalog&openmenu=demoAcc3&lang=en&course=26)
 
 -Conducted research in Web Security related to my Bachelor’s Thesis, collaborating with a PhD student.
 
